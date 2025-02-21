@@ -17,3 +17,16 @@ Ensure you have the following Python libraries installed:
 
 pandas
 matplotlib
+
+** README - Dataset_Matching.py **
+
+Overview 
+
+This script processes financial data, particularly related to infrastructure projects. It performs data cleaning, transformation, and merging to produce a final dataset containing the deals from Dealscan matched to items in Infrastructure 360. 
+
+Ensure you have the following Python libraries installed:
+
+pandas
+numpy
+rapidfuzz
+matplotlib
