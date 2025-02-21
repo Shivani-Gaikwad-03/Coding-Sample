@@ -16,9 +16,10 @@ Dependencies
 Ensure you have the following Python libraries installed:
 
 pandas
+
 matplotlib
 
-** README - Dataset_Matching.py **
+**README - Dataset_Matching.py**
 
 Overview 
 
@@ -27,6 +28,9 @@ This script processes financial data, particularly related to infrastructure pro
 Ensure you have the following Python libraries installed:
 
 pandas
+
 numpy
+
 rapidfuzz
+
 matplotlib
